@@ -4,7 +4,7 @@ My name is Usman Raza. I'm a Freelance Product Engineer working from Islamabad, 
 
 #### Current
 
-* :iphone: Working on Better, a simple habit tracker for ios
+* :iphone: Working on Better, a simple habit tracker for iOS
 * :running: Maintaining [hardloop](https://apps.apple.com/us/app/id1495581025) (as a technical founder)
 * :seedling: Learning all about Swift
 

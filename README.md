@@ -5,7 +5,7 @@ My name is Usman Raza. I'm a Freelance Product Engineer working from Islamabad, 
 #### Current
 
 * :iphone: Working on Codebox, an iOS app to run code snippets
-* :running: Maintaining [hardloop](https://apps.apple.com/us/app/id1495581025) (as a technical founder)
+* :running: Maintaining [hardloop](https://apps.apple.com/us/app/id1495581025) & [better](https://apps.apple.com/us/app/better-a-simple-habit-tracker/id1662309089)
 * :seedling: Learning all about SwiftUI & Combine
 
 #### :hammer_and_wrench: Technologies and tools

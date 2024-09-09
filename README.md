@@ -1,12 +1,6 @@
 ### OhHiThere 👋
 
-My name is Usman Raza. I'm a Freelance Product Engineer working from Islamabad, Pakistan. 
-
-#### Current
-
-* :iphone: Working on DocMe, an iOS app to estimate your Cardiovascular Health Score
-* :running: Maintaining [hardloop](https://apps.apple.com/us/app/id1495581025) & [better](https://apps.apple.com/us/app/better-a-simple-habit-tracker/id1662309089)
-* :seedling: Learning all about SwiftUI
+My name is Usman Raza. I'm the Lead Product Engineer at [DocMe](https://www.docme.ai/). 
 
 #### :hammer_and_wrench: Technologies and tools
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)

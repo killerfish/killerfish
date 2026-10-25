@@ -17,7 +17,7 @@ design, build and ship.
 
 - **Product & engineering leadership:** lead the 360Me engineering team
   across iOS, web portals and backend; product management, roadmaps,
-  analytics and compliance groundwork (SOC 2, ISO 13485 QMS).
+  analytics and compliance groundwork (SOC 1, ISO 13485 QMS).
 - **Health tech:** biological age, CVD risk models, Apple HealthKit,
   camera-based vital signs, Thriva and Withings integrations, nutrition
   tracking.
